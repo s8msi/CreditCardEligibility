@@ -1,4 +1,4 @@
-# CreditCardEligibility
+# CreditCardProductivity
 In this project, we use the dataset of a list of customers in a bank. The dataset contains a few demographic features of the customers that help us the determine if it is profitable to provide a credit card to the particular customer.
 --------
 To begin with, a description of the dataset has been given in detail in the beginning of the Jupyter Notebook. The dataset is a collection of demographic, socio-economic & transactional variables to help us determine if it is profitable to provide a credit card to a particular customer.
